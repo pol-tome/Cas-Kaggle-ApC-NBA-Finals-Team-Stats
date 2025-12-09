@@ -7,11 +7,11 @@ Este documento sirve como guía paso a paso para completar el caso de estudio, a
 ## 🏗️ Fase 1: Configuración y Entorno (10%)
 *Objetivo: Tener el repositorio listo y conectado.*
 
-- [ ] **Estructura de Carpetas:** Crear `data/`, `notebooks/`, `images/`.
-- [ ] **Datos:** Colocar `champs.csv` y `runnerups.csv` en la carpeta `data/`.
+- [x] **Estructura de Carpetas:** Crear `data/`, `notebooks/`, `images/`.
+- [x] **Datos:** Colocar `champs.csv` y `runnerups.csv` en la carpeta `data/`.
 - [ ] **Documentación:** Crear `README.md` con la descripción del proyecto.
-- [ ] **Diccionario:** Crear `DATA_DICT.md` con la explicación de las variables.
-- [ ] **Git:** Clonar repositorio en local y verificar sincronización con VS Code.
+- [x] **Diccionario:** Crear `DATA_DICT.md` con la explicación de las variables.
+- [x] **Git:** Clonar repositorio en local y verificar sincronización con VS Code.
 - [ ] **Librerías:** Crear archivo `requirements.txt` (pandas, matplotlib, seaborn, scikit-learn).
 
 ---
