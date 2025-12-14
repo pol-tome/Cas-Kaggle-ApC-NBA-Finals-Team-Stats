@@ -21,3 +21,5 @@ El proyecto sigue una estructura de directorios estándar para garantizar la rep
 ├── nba_analysis.ipynb     # Notebook principal
 ├── DATA_DICT.md           # Diccionario de variables detallado
 └── README.md              # Información general del proyecto
+
+Autores: Pol Tomé Garcia y Adrián Fernández Mata.
