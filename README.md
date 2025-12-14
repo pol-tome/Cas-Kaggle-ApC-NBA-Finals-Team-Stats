@@ -18,6 +18,6 @@ El proyecto sigue una estructura de directorios estándar para garantizar la rep
 
 ```text
 ├── data/                  # Archivos CSV originales (champs.csv, runnerups.csv)
-├── nba_analysis.ipynb # Notebook principal
+├── nba_analysis.ipynb     # Notebook principal
 ├── DATA_DICT.md           # Diccionario de variables detallado
 └── README.md              # Información general del proyecto
