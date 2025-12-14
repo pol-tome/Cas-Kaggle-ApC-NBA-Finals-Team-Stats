@@ -18,8 +18,6 @@ El proyecto sigue una estructura de directorios estándar para garantizar la rep
 
 ```text
 ├── data/                  # Archivos CSV originales (champs.csv, runnerups.csv)
-├── notebooks/             # Jupyter Notebooks con el análisis y modelos
-│   └── nba_analysis.ipynb # Notebook principal
-├── images/                # Gráficas generadas y recursos visuales
+├── nba_analysis.ipynb # Notebook principal
 ├── DATA_DICT.md           # Diccionario de variables detallado
 └── README.md              # Información general del proyecto
